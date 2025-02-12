@@ -1,0 +1,5 @@
+kafka-python
+selenium
+newspaper3k
+gnews
+undetected_chromedriver
